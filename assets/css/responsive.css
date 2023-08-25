@@ -1,0 +1,14 @@
+@media screen and (max-width: 420px) {
+  .bar, .song_side {
+    display: none;
+  }
+  .menu_side {
+    /* display: none; */
+    width: 100%!important;
+  }
+
+  .header .master_play {
+    width: 70%!important;
+  }
+  
+}
